@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1425547189 source:c:\users\acer\desktop\work\main.cpp
+	"stack.h"
+	<iostream>
+
+1425546299 source:c:\users\acer\desktop\work\linerlist.cpp
+	<stdio.h>
+
+1425546928 c:\users\acer\desktop\work\linerlist.cpp
+	<stdio.h>
+
+1425546209 source:c:\users\acer\desktop\work\stack.cpp
+	"LinerList.cpp"
+
+1425546932 c:\users\acer\desktop\work\stack.cpp
+	"LinerList.cpp"
+
+1425547476 c:\users\acer\desktop\work\stack.h
+	"LinerList.h"
+
+1425547107 c:\users\acer\desktop\work\linerlist.h
+	<stdio.h>
+
+1425547190 source:c:\users\guanwei\desktop\work\main.cpp
+	"stack.h"
+	<iostream>
+
+1425975306 c:\users\guanwei\desktop\work\stack.h
+	"LinerList.h"
+
+1425974958 c:\users\guanwei\desktop\work\linerlist.h
+	<stdio.h>
+
